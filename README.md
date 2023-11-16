@@ -1,4 +1,3 @@
-```
 # TranquiLED
 
 TranquiLED is a desktop productivity tool designed to enhance focus and promote relaxation. Using the subtle yet effective method of a gently pulsing LED on your screen, it mimics the rhythm of a calming heartbeat. This digital adaptation of a proven focus technique is ideal for those seeking to maintain concentration and reduce stress during work or study sessions.
