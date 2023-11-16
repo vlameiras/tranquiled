@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Debug logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
